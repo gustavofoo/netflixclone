@@ -2,7 +2,6 @@
 </br>
 <strong>Netflix Clone</strong>
 
-Link da aplicação:
 Projeto de estudo em ReactJS cujo objetivo foi desenvolver um clone de uma das páginas do site da NetFlix que consumisse dados da API do site Themoviedb.org através do useState do React.
 
 A orientação foi feita pelo Bonieky Lacerda (B7Web) através do vídeo no Youtube (https://www.youtube.com/watch?v=tBweoUiMsDg)
