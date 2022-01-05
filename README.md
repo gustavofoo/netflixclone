@@ -11,3 +11,5 @@ A orientação foi feita pelo Bonieky Lacerda (B7Web) através do vídeo no Yout
 ✔️ CSS </br>
 ✔️ JavaScript </br>
 ✔️API TMDB </br>
+
+Link para acessar o app: https://netflixclone-jade.vercel.app/
